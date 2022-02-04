@@ -52,6 +52,8 @@ body{
     width: 150px;
     padding: 10px;
     border: 0.2px solid hsl(31, 77%, 52%);
+    cursor: pointer;
+    transition: all 200ms ease;
 }
 
 .card .main-card .card-1 button:hover{
@@ -94,6 +96,8 @@ body{
     width: 150px;
     padding: 10px;
     border: 0.2px solid hsl(184, 100%, 22%);
+    cursor: pointer;
+    transition: all 200ms ease;
 }
 
 .card .main-card .card-2 button:hover{
@@ -137,6 +141,8 @@ body{
     width: 150px;
     padding: 10px;
     border: 0.2px solid hsl(179, 100%, 13%);
+    cursor: pointer;
+    transition: all 200ms ease;
 }
 
 .card .main-card .card-3 button:hover{
@@ -170,14 +176,20 @@ body{
 
 .card .main-card .card-1 button{
     height: 40px;
+    cursor: pointer;
+    transition: all 200ms ease;
 }
 
 .card .main-card .card-2 button{
     height: 40px;
+    cursor: pointer;
+    transition: all 200ms ease;
 }
 
 .card .main-card .card-3 button{
     height: 40px;
+    cursor: pointer;
+    transition: all 200ms ease;
 }
 
 .card .main-card .card-1 button:hover{
