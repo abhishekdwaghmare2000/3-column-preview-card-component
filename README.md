@@ -1,6 +1,6 @@
 # Frontend Mentor - 3-column preview card component solution
 
-This is a solution to the [3-column preview card component solution](https://www.frontendmentor.io/challenges/3column-preview-card-component-pH92eAR2-).
+This is a solution to the [3-column preview card component solution](https://www.frontendmentor.io/solutions/3cardpreviewcardcomponent-5LD5P2dj1).
 
 ### The challenge
 
@@ -15,8 +15,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Frontend Mentor solution](https://your-solution-url.com)
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor solution](https://www.frontendmentor.io/solutions/3cardpreviewcardcomponent-5LD5P2dj1)
+- Live Site URL: [Live site](https://abhishekdwaghmare2000.github.io/3-column-preview-card-component/)
 
 ## My process
 
@@ -49,11 +49,5 @@ Users should be able to:
 
 ## Author
 
-- Website - [Abhishek Waghmare](https://www.your-site.com)
-- Frontend Mentor - [abhishekdwaghmare2000@gmail.com](https://www.frontendmentor.io/profile/yourusername)
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+- Website - [Abhishek Waghmare](https://abhishekdwaghmare2000.github.io/3-column-preview-card-component/)
+- Frontend Mentor - [abhishekdwaghmare2000@gmail.com](https://www.frontendmentor.io/solutions/3cardpreviewcardcomponent-5LD5P2dj1)
